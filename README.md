@@ -2,9 +2,8 @@
 
 <div align="center">
 Good day! I am Lee Wonhyeong who is Beginner developer from South Korea.<br>
-I graduated from Myongji Univ 👨‍🎓, information & communication Engineering.
+I graduated from Myongji Univ 2021 👨‍🎓, information & communication Engineering.
 </div>
----
 <br>
 
 <h3 align="center"> iOS developer </h3>
