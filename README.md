@@ -1,30 +1,42 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=안녕하세요,이원형입니다)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b0d4ff&height=300&section=header&text=Wonhyeong&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<!--
-**whl0526/whl0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h3 align="center"> iOS developer </h3>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div>
+<h3 align="center"> Tech Stack </h3>
+
+<div align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white">
 <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=Swift&logoColor=blue">
   </div>
   
+  <h3 align='center'>  Tools  </h3>
+ <p align='center'>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iTerm2&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+</p>
+
   </br>
-  <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whl0526&exclude_repo=whl0526.github.io&layout=compact&theme=tokyonight" />
-</a>
+<h3 align="center"> My Github Stats </h3>
+
+<div align="center">
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=whl0526&theme=whl0526&show_icons=true" width="42%" />
 </a>
+
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whl0526)
