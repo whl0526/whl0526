@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b0d4ff&height=300&section=header&text=Wonhyeong&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<div align="center">
+<!-- <div align="center">
 Good day! I am Lee Wonhyeong who is Beginner developer from South Korea.<br>
 I graduated from Myongji Univ 2021 👨‍🎓, information & communication Engineering.
 </div>
-<br>
+<br> -->
 
 <h3 align="center"> iOS developer </h3>
 
