@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b0d4ff&height=300&section=header&text=Wonhyeong&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b0d4ff&height=300&section=header&text=Hello Wonhyeong&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 
 
@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=whl0526&theme=whl0526&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whl0526&theme=whl0526&show_icons=true" width="60%" />
 </a>
 
 
