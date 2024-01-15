@@ -3,7 +3,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{whl0526})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={whl0526})](https://solved.ac/{whl0526})
 <!-- <h3 align="center"> My Github Stats </h3> -->
 
 <div align="center">
