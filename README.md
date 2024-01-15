@@ -6,7 +6,7 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={whl0526})](https://solved.ac/{whl0526})
 <!-- <h3 align="center"> My Github Stats </h3> -->
 
-<div align="center">
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=whl0526&theme=whl0526&show_icons=true" width="50%" />
 </a>
