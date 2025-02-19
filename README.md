@@ -7,9 +7,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whl0526)](https://solved.ac/whl0526/)
 
 
-<a href="s">
+[<a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=whl0526&theme=whl0526&show_icons=true" width="50%" />
-</a>
+</a>](url)
 
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whl0526)
+[ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whl0526)
+](url)
